@@ -1,0 +1,16 @@
+<div class="container mt-5">
+  <h2>Eliminar Usuario</h2>
+  <div class="mb-3">
+    <label for="id" class="form-label">ID del Usuario:</label>
+    <input type="number" id="id" [(ngModel)]="id" (change)="buscarUsuario()" class="form-control" required>
+  </div>
+
+  <div *ngIf="usuario" class="alert alert-info">
+    <p><strong>Usuario:</strong> {{ usuario.user }}</p>
+    <p><strong>Contraseña:</strong> {{ usuario.password }}</p>
+    <button (click)="eliminar()" class="btn btn-danger">Eliminar Usuario</button>
+  </div>
+  <div *ngIf="!usuario && id" class="alert alert-warning">
+    Usuario no encontrado.
+  </div>
+</div>

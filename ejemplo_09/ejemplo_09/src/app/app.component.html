@@ -1,0 +1,15 @@
+<div class="container mt-5">
+  <div class="card shadow" style="max-width: 500px; margin: auto;">
+    <div class="card-body text-center">
+      <h1 class="card-title">Bienvenido al sistema</h1>
+      <div class="mb-3">
+        <a routerLink="/registrar" class="btn btn-primary me-2">Registrar Usuario</a>
+        <a routerLink="/" class="btn btn-secondary me-2">Listar Usuarios</a>
+        <a routerLink="/actualizar" class="btn btn-warning me-2">Actualizar Usuario</a>
+        <a routerLink="/eliminar" class="btn btn-danger">Eliminar Usuario</a> <!-- Botón para eliminar -->
+      </div>
+    </div>
+  </div>
+
+  <router-outlet></router-outlet>
+</div>
