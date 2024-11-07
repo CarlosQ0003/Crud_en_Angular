@@ -1,3 +1,6 @@
+# CRUD EN ANGULAR CON SPRING TOOLS Y SQL
+este proyecto de angular tiene la finalidad de que spring tools sea un servidor que se use para 
+
 # Instalación de XAMPP
 
 XAMPP es un entorno de desarrollo que incluye Apache, MySQL, PHP y Perl para configurar un servidor local.
@@ -38,9 +41,9 @@ XAMPP es un entorno de desarrollo que incluye Apache, MySQL, PHP y Perl para con
 
 # link de videos de instalacion
   WINDOWS:
-  https://www.youtube.com/watch?v=IQ22Nme9t0M
+  https://www.youtube.com/watch?v=IQ22Nme9t0M.
   LINUX:
-  https://www.youtube.com/watch?v=-Nsorv6WmSU
+  https://www.youtube.com/watch?v=-Nsorv6WmSU.
 
 # Instalación de Angular
 
