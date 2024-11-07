@@ -1,5 +1,25 @@
 # CRUD EN ANGULAR CON SPRING TOOLS Y SQL
 
+##OBJETIVO
+
+Crear un servicio en spring tools y se puede consumir en angular es crear la interfaz grafica
+
+# instalacion del proyecto paso a paso
+## Paso1
+1. ingresas al phpMyadmin:
+   ![App Screenshot](./.png)
+2. creamos la base de datos con el nombre db_ejemplo
+   ![App Screenshot](./.png)
+3. importamos la base de datos
+   ![App Screenshot](./.png)
+4. ingresamos a la estructura de usuario
+   ![App Screenshot](./.png)
+5. debe aparecerte el id de usuario como AUTO_INCREMENT
+   ![App Screenshot](./.png)
+6. en dado caso no te aparezca en AUTO_INCREMENT de las a cambiar y lo activas
+   ![App Screenshot](./.png)
+
+#  Paso 2
 
 # Instalación de XAMPP
 
