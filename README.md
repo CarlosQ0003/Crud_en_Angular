@@ -57,7 +57,8 @@ Crear un servicio en spring tools y se puede consumir en angular es crear la int
    ![angular2](https://github.com/user-attachments/assets/1ebd6ea8-8935-4bd9-bcc2-8f9252ba3b5e)
 
 4. asi deberia aparecer mi interfaz
-   ![angular3](https://github.com/user-attachments/assets/06466bae-2076-4ba6-9a27-665ddf1e2386)
+   ![Imagen de WhatsApp 2024-11-07 a las 21 46 58_210367a7](https://github.com/user-attachments/assets/aa897646-6767-4b43-bd6a-46e093c5139a)
+
 
 
 # Instalación de XAMPP
