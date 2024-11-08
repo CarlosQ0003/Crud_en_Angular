@@ -7,18 +7,23 @@ Crear un servicio en spring tools y se puede consumir en angular es crear la int
 # instalacion del proyecto paso a paso
 ## Paso1:
 1. ingresas al phpMyadmin:
-   ![App Screenshot](./datos1.png)
+   ![datos1](https://github.com/user-attachments/assets/9ed5fed1-bd4d-429d-8b72-936b283cd752)
 
 3. creamos la base de datos con el nombre db_ejemplo
-   ![App Screenshot](./.datos1png)
+   ![datos1](https://github.com/user-attachments/assets/2e067186-e4f4-4d97-a77b-905d89556b0e)
+
 4. importamos la base de datos
-   ![App Screenshot](./.datos2png)
+   ![datos2](https://github.com/user-attachments/assets/d3cfb350-73c4-4d9a-a30c-bb4133987b07)
+
 5. ingresamos a la estructura de usuario
-   ![App Screenshot](./datos3.png)
+   ![datos3](https://github.com/user-attachments/assets/fbe22027-0612-42f2-8571-704107db0409)
+
 6. debe aparecerte el id de usuario como AUTO_INCREMENT
-   ![App Screenshot](./datos4.png)
+   ![datos4](https://github.com/user-attachments/assets/2c884dac-088d-48b6-ac0c-cc198aee4635)
+
 7. en dado caso no te aparezca en AUTO_INCREMENT de las a cambiar y lo activas
-   ![App Screenshot](./datos5.png)
+   ![datos5](https://github.com/user-attachments/assets/65abc41e-e890-48f6-918e-19a9576de54c)
+
 
 #  Paso 2:
 1. ingremos al al spring tools, le damos a file y luego a open proyect.
