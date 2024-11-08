@@ -1,4 +1,6 @@
+![captura1](https://github.com/user-attachments/assets/bfb6037a-0568-43b5-89d3-21430bfc7456)
 # CRUD EN ANGULAR CON SPRING TOOLS Y SQL
+
 
 ##OBJETIVO
 
@@ -27,27 +29,37 @@ Crear un servicio en spring tools y se puede consumir en angular es crear la int
 
 #  Paso 2:
 1. ingremos al al spring tools, le damos a file y luego a open proyect.
-   ![App Screenshot](./spring1.png)
+   ![spring1](https://github.com/user-attachments/assets/530c5a81-5606-4514-8256-e6e0d4ee196a)
+
 2. al ingresar al open proyect directory.
-   ![App Screenshot](./spring2.png)
+   ![spring2](https://github.com/user-attachments/assets/0e5a6945-726a-43d1-bfc0-ad4e94d2d720)
+
 3. buscas el proyecto.
-   ![App Screenshot](./spring3.png)
+   ![spring3](https://github.com/user-attachments/assets/aee71243-328b-4b10-81ea-19523faeed3e)
+
 4. asi te deberia salir.
-   ![App Screenshot](./spring4.png)
+   ![spring4](https://github.com/user-attachments/assets/0d9a37df-a312-4454-b62e-219283dc0574)
+
 5. luego buscas el folder o packeg "src/main/resources" y seleccionas el Application.properties y en la linea 5 cambias el localhost:**** al cual salga tu xampp
-   ![App Screenshot](./spring5.png)
+   ![spring5](https://github.com/user-attachments/assets/e6a25891-a39f-4baa-9754-8cc4102e6e7b)
+
 7. asi es como deberias ejecutar el proyecto
-   [App Screenshot](./spring6.png)
+   ![spring6](https://github.com/user-attachments/assets/69e63100-ce22-47ad-8be9-f23bd13dc9c7)
+
 
 ## Paso 3:
 1. ingresas al archivo, haces clic derecho, selecionas la terminar y pones el comando "code ."
-   [App Screenshot](./angular.png)
+   ![angular](https://github.com/user-attachments/assets/5e31babb-a40f-4fd7-a330-308798ace137)
+
 2. una vez ingresado al proyecto "ejemplo_09" le das a los "..." seleccionas la terminal.
-   [App Screenshot](./angular1.png)
+   ![angular1](https://github.com/user-attachments/assets/a5eff408-9977-4fa2-a7fe-67cf6a519e03)
+
 3. luego colocas el siguiente comando en la terminal "ng server -o" debe aparecerte asi
-   [App Screenshot](./angular2.png)
+   ![angular2](https://github.com/user-attachments/assets/1ebd6ea8-8935-4bd9-bcc2-8f9252ba3b5e)
+
 4. asi deberia aparecer mi interfaz
-   [App Screenshot](./angular3.png)
+   ![angular3](https://github.com/user-attachments/assets/06466bae-2076-4ba6-9a27-665ddf1e2386)
+
 
 # Instalación de XAMPP
 
