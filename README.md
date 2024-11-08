@@ -8,7 +8,6 @@ Crear un servicio en spring tools y se puede consumir en angular es crear la int
 ## Paso1:
 1. ingresas al phpMyadmin:
    ![App Screenshot](./datos1.png)
-   ![image](https://github.com/user-attachments/assets/4d80c378-ca11-49c8-a319-26e76abbb9d6)
 
 3. creamos la base de datos con el nombre db_ejemplo
    ![App Screenshot](./.datos1png)
