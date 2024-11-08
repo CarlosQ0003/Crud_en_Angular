@@ -1,6 +1,5 @@
-![captura1](https://github.com/user-attachments/assets/bfb6037a-0568-43b5-89d3-21430bfc7456)
 # CRUD EN ANGULAR CON SPRING TOOLS Y SQL
-
+![captura1](https://github.com/user-attachments/assets/bfb6037a-0568-43b5-89d3-21430bfc7456)
 
 ##OBJETIVO
 
