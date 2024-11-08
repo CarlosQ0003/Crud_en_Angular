@@ -5,21 +5,43 @@
 Crear un servicio en spring tools y se puede consumir en angular es crear la interfaz grafica
 
 # instalacion del proyecto paso a paso
-## Paso1
+## Paso1:
 1. ingresas al phpMyadmin:
-   ![App Screenshot](./.png)
+   ![App Screenshot](./datos1.png)
 2. creamos la base de datos con el nombre db_ejemplo
-   ![App Screenshot](./.png)
+   ![App Screenshot](./.datos1png)
 3. importamos la base de datos
-   ![App Screenshot](./.png)
+   ![App Screenshot](./.datos2png)
 4. ingresamos a la estructura de usuario
-   ![App Screenshot](./.png)
+   ![App Screenshot](./datos3.png)
 5. debe aparecerte el id de usuario como AUTO_INCREMENT
-   ![App Screenshot](./.png)
+   ![App Screenshot](./datos4.png)
 6. en dado caso no te aparezca en AUTO_INCREMENT de las a cambiar y lo activas
-   ![App Screenshot](./.png)
+   ![App Screenshot](./datos5.png)
 
-#  Paso 2
+#  Paso 2:
+1. ingremos al al spring tools, le damos a file y luego a open proyect.
+   ![App Screenshot](./spring1.png)
+2. al ingresar al open proyect directory.
+   ![App Screenshot](./spring2.png)
+3. buscas el proyecto.
+   ![App Screenshot](./spring3.png)
+4. asi te deberia salir.
+   ![App Screenshot](./spring4.png)
+5. luego buscas el folder o packeg "src/main/resources" y seleccionas el Application.properties y en la linea 5 cambias el localhost:**** al cual salga tu xampp
+   ![App Screenshot](./spring5.png)
+7. asi es como deberias ejecutar el proyecto
+   [App Screenshot](./spring6.png)
+
+## Paso 3:
+1. ingresas al archivo, haces clic derecho, selecionas la terminar y pones el comando "code ."
+   [App Screenshot](./angular.png)
+2. una vez ingresado al proyecto "ejemplo_09" le das a los "..." seleccionas la terminal.
+   [App Screenshot](./angular1.png)
+3. luego colocas el siguiente comando en la terminal "ng server -o" debe aparecerte asi
+   [App Screenshot](./angular2.png)
+4. asi deberia aparecer mi interfaz
+   [App Screenshot](./angular3.png)
 
 # Instalación de XAMPP
 
@@ -88,3 +110,7 @@ Angular CLI es una herramienta de línea de comandos para crear y gestionar proy
 2. Verifica la instalación de Angular CLI:
    ng version
 
+#instalar el Spring tools
+
+link de descarga: https://spring.io/tools
+link video paso a paso: https://www.youtube.com/watch?v=89Mr-dYcHxA
